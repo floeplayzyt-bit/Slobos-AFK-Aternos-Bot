@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aurafrontiersmp.aternos.me",
+    "ip": "grison.aternos.host",
     "port": 28621,
     "version": "1.21.11",
     "try-creative": false
