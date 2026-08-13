@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rockling.aternos.host",
+    "ip": "AuraFrontierSMP.aternos.me",
     "port": 28621,
-    "version": "1.21.11",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
