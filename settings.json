@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "grison.aternos.host",
+    "ip": "rockling.aternos.host:28621",
     "port": 28621,
     "version": "1.21.11",
     "try-creative": false
