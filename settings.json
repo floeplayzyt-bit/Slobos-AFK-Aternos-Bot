@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Herobrine",
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
   "server": {
     "ip": "AuraFrontierSMP.aternos.me",
     "port": 28621,
-    "version": "1.12.1",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
